@@ -1,0 +1,1 @@
+Put in string. If it contains "sololearn", output is true, else false.
